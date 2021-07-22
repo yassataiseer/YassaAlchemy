@@ -2,7 +2,7 @@
 
 SQLAlchemy was getting annoying so I have now made my own MySQL ORM(work in project btw).
 The idea is to get basic SQL commands working. Currently can make tables and columns.
-
+Pypi page coming soon...
 
 ## Setup 
 Just look at this code:
@@ -36,6 +36,10 @@ class Users:
 Users.create(db) #create User's table
 
 ```
+
+## How to help
+I have no time so please help me.
+To find out what to do check over at ```projects```.
 
 
 
