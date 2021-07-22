@@ -36,7 +36,7 @@ class table(setup):
         self.table=self.table[0:-1]
         self.table+=")"
         #self.table[-2]="a"
-        print(self.table)
+        #print(self.table)
         mycursor.execute(self.table)
         mycursor.close()        
         return "succesfully created the table"
