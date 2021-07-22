@@ -37,6 +37,12 @@ Users.create(db) #create User's table
 
 ```
 
+## Install:
+Clone repo. Delete test.py as it is simply starter code(or don't).
+Make sure MySQL,python and the MySQL.connector are all installed.
+
+
+
 ## How to help
 I have no time so please help me.
 To find out what to do check over at ```projects```.
