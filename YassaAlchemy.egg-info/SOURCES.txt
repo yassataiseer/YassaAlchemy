@@ -9,6 +9,3 @@ YassaAlchemy.egg-info/PKG-INFO
 YassaAlchemy.egg-info/SOURCES.txt
 YassaAlchemy.egg-info/dependency_links.txt
 YassaAlchemy.egg-info/top_level.txt
-YassaAlchey.egg-info/SOURCES.txt
-YassaAlchey.egg-info/dependency_links.txt
-YassaAlchey.egg-info/top_level.txt

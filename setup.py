@@ -13,14 +13,14 @@ classifiers = [
 setup(
   name='YassaAlchemy',
   version='0.0.1',
-  description='MySQL based ORM',
-  long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),
+  description='Another MySQL based ORM',
+  long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
   author='Yassa Taiseer',
   author_email='yassataiseer@gmail.com',
   license='MIT', 
   classifiers=classifiers,
-  keywords='calculator', 
+  keywords='MySQL ORM Python', 
   packages=find_packages(),
   install_requires=[''] 
 )
