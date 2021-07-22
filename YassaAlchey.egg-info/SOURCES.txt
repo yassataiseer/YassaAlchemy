@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+test.py
+YassaAlchemy/__init__.py
+YassaAlchey.egg-info/PKG-INFO
+YassaAlchey.egg-info/SOURCES.txt
+YassaAlchey.egg-info/dependency_links.txt
+YassaAlchey.egg-info/top_level.txt
