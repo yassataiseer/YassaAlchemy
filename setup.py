@@ -11,7 +11,7 @@ classifiers = [
 ]
  
 setup(
-  name='YassaAlchey',
+  name='YassaAlchemy',
   version='0.0.1',
   description='MySQL based ORM',
   long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),
