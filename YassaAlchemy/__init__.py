@@ -15,8 +15,8 @@ class setup:
             database = self.database)
         return db 
 
-class mk_table(setup):
+class table(setup):
     def __init__(self,host,user,passwd,database):
         super().__init__(host,user,passwd,database)
-    
+
 
